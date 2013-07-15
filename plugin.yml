@@ -1,0 +1,7 @@
+name: ChestShopDB
+author: Prawny
+version: 1.0
+description: Creates a shop database for ChestShop.
+
+main: net.prawny.ChestShopDB.ChestShopDB
+depend: [ChestShop]
